@@ -1,4 +1,4 @@
 zrepp
 ====
 
-debut (10%)
+debut (20%)
